@@ -1,0 +1,13 @@
+D:\GCProjects\Bonus13pg108\Bonus13pg108\bin\Debug\netcoreapp3.1\Bonus13pg108.exe
+D:\GCProjects\Bonus13pg108\Bonus13pg108\bin\Debug\netcoreapp3.1\Bonus13pg108.deps.json
+D:\GCProjects\Bonus13pg108\Bonus13pg108\bin\Debug\netcoreapp3.1\Bonus13pg108.runtimeconfig.json
+D:\GCProjects\Bonus13pg108\Bonus13pg108\bin\Debug\netcoreapp3.1\Bonus13pg108.runtimeconfig.dev.json
+D:\GCProjects\Bonus13pg108\Bonus13pg108\bin\Debug\netcoreapp3.1\Bonus13pg108.dll
+D:\GCProjects\Bonus13pg108\Bonus13pg108\bin\Debug\netcoreapp3.1\Bonus13pg108.pdb
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.csprojAssemblyReference.cache
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.AssemblyInfoInputs.cache
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.AssemblyInfo.cs
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.csproj.CoreCompileInputs.cache
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.dll
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.pdb
+D:\GCProjects\Bonus13pg108\Bonus13pg108\obj\Debug\netcoreapp3.1\Bonus13pg108.genruntimeconfig.cache
